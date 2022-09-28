@@ -1,4 +1,4 @@
-# filter-detriot-police-reports
+# Filter Detroit Police Reports
 
 ## Description
 Calculates response, dispatch, and total time for Detroit and each neighborhood in Detroit, then exports the data into a json file.
