@@ -25,4 +25,4 @@ C:/Users/YourName/filter-detriot-police-reports/main.py
 ## Contribution
 If you have an idea or want to report a bug, please create an issue.
 
-## **[Contact](https://coleb.io/contact)**
+## **[Contact](https://github.com/ColeBallard/coleballard.github.io/blob/main/README.md)**
